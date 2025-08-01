@@ -1,4 +1,4 @@
-# web---dev---certificate---journey
+# web-dev-certificate-journey
 This repository contains my learning journey,certificate progress and HTML projects as part of my university application profile.
 ## Day 1: Setup & Planing
 ✔ Created GitHub Account
